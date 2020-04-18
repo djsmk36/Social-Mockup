@@ -81,62 +81,20 @@ body
     z-index: 9;
     width: 20%; 
 }
-
-.post-footer-option li{
-    float:left;
-    margin-right:50px;
-    padding-bottom:15px;
+.gedf-wrapper {
+	margin-top: 0.97rem;
 }
 
-.post-footer-option li a{
-    color:#AFB4BD;
-    font-weight:500;
-    font-size:1.3rem;
-}
-
-.photo-profile{
-    border:1px solid #DDD;    
-}
-
-.anchor-username h4{
-    font-weight:bold;    
-}
-
-.anchor-time{
-    color:#ADB2BB;
-    font-size:1.2rem;
-}
-
-.post-footer-comment-wrapper{
-    background-color:#F6F7F8;
+@media (min-width: 992px) {
+	.gedf-main {
+		padding-left: 4rem;
+		padding-right: 4rem;
+	}
+	.gedf-card {
+		margin-bottom: 2.77rem;
+	}
 }
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
-
-
-
