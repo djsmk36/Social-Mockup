@@ -1,0 +1,142 @@
+/*
+
+
+
+*/
+body
+{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.fb-profile img.fb-image-lg{
+    z-index: 0;
+    width: 850px;  
+    
+}
+
+.fb-profile-block-menu {
+	border: 1px solid #d3d6db;
+	border-radius: 0 0 3px 3px;
+	height: 44px;
+  position: relative;
+  width:850px;
+  
+}
+
+.block-menu {
+	clear: right;
+	padding-left: 205px;
+  }
+  .block-menu ul{
+	  margin:0;
+	  padding:0;
+	  }
+  .block-menu ul li{
+	  display:inline-block;
+	  }
+  .block-menu ul li a {
+	border-right: 1px solid #e9eaed;
+	float: left;
+	font-size: 14px;
+	font-weight: bold;
+	height: 42px;
+	line-height: 3.0;
+	padding: 0 17px;
+	position: relative;
+	vertical-align: middle;
+	white-space: nowrap;
+	color:#4b4f56;
+	text-transform:capitalize;
+  }
+  .block-menu ul li:first-child a{
+		border-left: 1px solid #e9eaed;
+	  }
+
+.btn{
+	position: relative;
+	top: -125px;
+	left: 445px;
+}
+
+.fb-image-profile
+{
+    margin: -90px 10px 0px 50px;
+    z-index: 9;
+    width: 20%; 
+}
+
+@media (max-width:768px)
+{
+    
+.fb-profile-text>h1{
+	font-weight: 700;
+	font: size 16px;
+	
+	
+}
+
+.fb-image-profile
+{
+    margin: -45px 10px 0px 25px;
+    z-index: 9;
+    width: 20%; 
+}
+
+.post-footer-option li{
+    float:left;
+    margin-right:50px;
+    padding-bottom:15px;
+}
+
+.post-footer-option li a{
+    color:#AFB4BD;
+    font-weight:500;
+    font-size:1.3rem;
+}
+
+.photo-profile{
+    border:1px solid #DDD;    
+}
+
+.anchor-username h4{
+    font-weight:bold;    
+}
+
+.anchor-time{
+    color:#ADB2BB;
+    font-size:1.2rem;
+}
+
+.post-footer-comment-wrapper{
+    background-color:#F6F7F8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
