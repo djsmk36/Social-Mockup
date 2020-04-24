@@ -1,53 +1,44 @@
 /*
 
-
-
 */
 *{
-    margin: 0;
-    padding: 0;
     box-sizing: border-box;
-    text-decoration: none;
 }
 
 .wrapper{
-    width: 850px;
-    margin: 0px auto;
+    top: 850px;
+    background-color: blue;
+    
 }
 
 .header{
-    height: 400px;
-    position: relative;
-    top: 40px;
-    left: 30px;
-    background-color: blue;
+    
+     
 }
 
 .header-bg{
-    height: 55px;
-    background-color: gray;
-    border: 1px solid yellow;
-    position: relative;
-    top: 400px;
+    
 }
 
-.profile-heading{
-position: relative;
-top: 370px;
-left: 500px;
-word-spacing: 8px;
+.profile-photo{
+   
 }
 
-.name-heading{
-position: relative;
-top: 200px;
-left: 250px;
-word-spacing: 5px;
+.button{
+  
 }
 
-.h .profile-heading div{
-display: inline-block;
-font-family: 'Times New Roman', Times, serif;
-color: tomato;
-position: relative;
+.tab-bar{
+ 
+}
+.columns{
+  
+}
+
+.column1{
+ 
+}
+
+.column2{
+  
 }
