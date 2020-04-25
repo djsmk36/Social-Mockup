@@ -5,40 +5,74 @@
     box-sizing: border-box;
 }
 
-.wrapper{
-    top: 850px;
-    background-color: blue;
-    
+body{
+    background-color:lightgrey;
 }
 
 .header{
-    
+    width: 850px;
+    margin: 0px auto;
      
 }
 
 .header-bg{
-    
+    height: 400px;
+    background-color: blue;
 }
 
 .profile-photo{
+   height: 250px;
+   width: 250px;
+   background-color:white;
+   position: relative;
+   top: 200px;
+   left: 20px;
+}
+h2{
+    position: relative;
+    left: 300px;
+    color: white;
+}
+
+.buttons{
+  position: relative;
+  left: 600px;
+}
+
+li{
+ float: left;
+ margin: 5px;
+ list-style: none;
+ 
+
+
+}
+.tab-bar{
+    position: relative;
+    background-color: blueviolet; 
+    height: 25px;
+    left: 270px;
+    
+    
+
+
+}
+.columns{
+ margin: 5px;
+ list-style: none;
+  
    
 }
 
-.button{
-  
-}
-
-.tab-bar{
- 
-}
-.columns{
-  
-}
-
 .column1{
- 
+    border: 2px solid black;
+    height: 300px;
+    width: 300px; 
 }
 
 .column2{
-  
+    border: 2px solid black;
+    height: 300px;
+    width: 300px; 
+    left: 305px;
 }
